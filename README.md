@@ -1,2 +1,2 @@
 # tic80_games
-Game made with TIC-80
+Games and WIP projects made with TIC-80.
